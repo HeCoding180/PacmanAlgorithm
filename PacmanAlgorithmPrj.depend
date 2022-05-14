@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1652195863 source:d:\coding\c\pacmanalgorithmprj\headers\pacmanalgorithms.c
+	"PacManAlgorithms.h"
+
+1652204874 d:\coding\c\pacmanalgorithmprj\headers\pacmanalgorithms.h
+	"Sprite.h"
+
+1652204829 d:\coding\c\pacmanalgorithmprj\headers\sprite.h
+
+1652205259 source:d:\coding\c\pacmanalgorithmprj\headers\sprite.c
+	<inttypes.h>
+	"Sprite.h"
+
